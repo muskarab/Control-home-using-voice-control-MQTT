@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sastrawi/sastrawi": "^1",
+        "bluerhinos/phpmqtt": "@dev"
+    }
+}
